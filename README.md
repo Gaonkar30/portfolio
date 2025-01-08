@@ -1,4 +1,6 @@
-# portfolio-template
+UE22CS351B
+Created as a part of Assignment for Cloud Computing Course at PES University to deploy.
+
 A basic html/css template for web concentration portfolio 1 students
 
 Download this template and use it to build a simple portfolio website. There are lots of comments in the code to explain what is doing what, plus I have made a google presentation that will walk you through some of the things you need to do. Those slides can be found here:
